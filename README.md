@@ -86,10 +86,12 @@ class Rifqi:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake Game
+
+> Click the image below to play Snake on a live demo, or add the **Platane/snk** GitHub Action to your repo to get an animated snake eating your contribution graph!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/31rifalrizal31-cmyk/31rifalrizal31-cmyk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" width="100%"/>
 </div>
 
 ---
