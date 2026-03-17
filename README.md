@@ -86,7 +86,7 @@ class Rifqi:
 
 ---
 
-## 🐍 Snake Game
+## 🐍 Snake 
 
 > Click the image below to play Snake on a live demo, or add the **Platane/snk** GitHub Action to your repo to get an animated snake eating your contribution graph!
 
