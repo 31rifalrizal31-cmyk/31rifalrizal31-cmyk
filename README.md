@@ -23,9 +23,9 @@ Saat ini saya fokus memahami dasar-dasar pemrograman dan cara kerja teknologi se
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=[username_kamu]&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=31rifalrizal31-cmyk&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[username_kamu]&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=31rifalrizal31-cmyk&layout=compact&theme=tokyonight)
 
 ---
 
